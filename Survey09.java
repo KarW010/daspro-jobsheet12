@@ -60,7 +60,6 @@ public class Survey09 {
                 totalResponses++;
             }
         }
-
         double overallAverage = overallSum / totalResponses;
         System.out.println("\nOverall average: " + overallAverage);
     }
